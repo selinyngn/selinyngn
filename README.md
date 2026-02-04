@@ -1,5 +1,5 @@
- 👋 Hi, I’m @selinyngn
- 🔭 I’m currently working on Artificial İntelligence and Web Programming
- 🌱 I’m currently learning Python
- 👯 I’m looking to collaborate on web projects 
- 📫 How to reach me by mail to fatmaselinyengin@gmail.com
+- 👋 Hi, I’m @selinyngn
+- 🔭 I’m currently working on Artificial İntelligence and Web Programming
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on web projects 
+- 📫 How to reach me by mail to fatmaselinyengin@gmail.com
